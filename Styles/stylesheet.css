@@ -1,0 +1,173 @@
+.head>div{
+	display: inline-block;
+	float: right;
+}
+#gmail{
+
+	width: 60px;
+	height: 20px;
+	font-family: Arial;
+	margin-top: 30px
+}
+
+#images{
+
+	width: 60px;
+	height: 20px;
+	font-family: Arial;
+	margin-top: 30px
+}
+
+#block{
+
+	width: 50px;
+	height: 20px;
+	margin-top: 30px
+}
+
+#notifications{
+
+	width: 40px;
+	height: 20px;
+	margin-top: 30px
+}
+#userlogo{
+	background-color: #6d4c41;
+	width: 40px;
+	height: 40px;
+	border-radius: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	font-family: Arial;
+}
+
+.center{
+	clear: both;
+	display: block;
+	margin: auto;
+}
+
+#logo{
+	margin: auto;
+	text-align: center;
+
+}
+
+.searchbar{
+	width: 93%;
+	height: 20px;
+	border: 0px solid;
+}
+
+#input_bar{
+	width: 93%;
+	height: 20px;
+	display: inline;
+	margin-top: 7px;
+}
+
+#inputbox{
+	margin: auto;
+	width: 40%;
+	height: 40px;
+	border: 2px solid #3fbaba;
+}
+
+#PTT_button{
+	width: 16px;
+	height: 25px;
+	display:inline-block;
+	margin-top: 7px;
+}
+
+#google_search>p{
+	font-family: Arial;
+	font-size: 15px;
+	margin-top: 30px;
+	color: #8e8e8e;
+	background-color: #f8f8f8;
+	padding: 10px 10px 10px 10px;
+}
+
+#google_search{
+	float: left;
+}
+
+#lucky>p{
+	font-family: Arial;
+	font-size: 15px;
+	margin-top: 30px;
+	color: #8e8e8e;
+	background-color: #f8f8f8;
+	padding: 10px 10px 10px 10px;
+}
+
+#lucky{
+	float: right;
+}
+
+.search_but{
+	width: 270px;
+	height: 70px;
+	margin: auto;
+}
+.Lang_select{
+	margin:auto;
+	text-align: center;
+	font-family: Arial;
+	font-size: 12px;
+	margin-top: 30px
+}
+
+.Lang_select>p>a:hover{
+	text-decoration: none
+}
+
+.footer{
+	font-family: Arial;
+	font-size: 15px;
+	background-color: #f2f2f2;
+	color: #878787;
+	width: 99%;
+	display: inline-block;
+	position: fixed;
+	bottom: 0;
+}
+
+.footer>div>p:hover{
+	text-decoration: underline;
+}
+.footer>#settings {
+	float:right;
+	margin: 4px 8px 4px 8px
+}
+
+.footer>#terms {
+	float:right;
+	margin: 4px 8px 4px 8px
+
+}
+
+.footer>#privacy {
+	float:right;
+	margin: 4px 8px 4px 8px
+}
+
+.footer>#advertizing {
+	float:left;
+	margin: 4px 8px 4px 8px
+}
+
+.footer>#business {
+	float:left;
+	margin: 4px 8px 4px 8px
+}
+
+.footer>#about {
+	float:left;
+	margin: 4px 8px 4px 8px
+}
+
